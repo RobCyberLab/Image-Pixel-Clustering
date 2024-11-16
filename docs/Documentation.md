@@ -85,8 +85,8 @@ In this laboratory, you will perform clustering of points from the previous lab,
 
 - A comparison of the number of distance function calls for each approach (neighboring "cells," K-Means, and Single Linkage) is shown in the table below:
 
-| Image | Initial Distance | Neighboring Cells | K-Means | Single Linkage |
-|-------|------------------|-------------------|---------|----------------|
+| Image | Neighboring Cells | K-Means | Single Linkage |
+|-------|-------------------|---------|----------------|
 | Circles | 15561 | 1524978 | 121064580 |
 | Full    | 23394 | 795396  | 273627921 |
 | Moons   | 10913 | 283738  | 59541328  |
