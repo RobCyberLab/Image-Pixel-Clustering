@@ -61,6 +61,30 @@ In this laboratory, you will perform clustering of points from the previous lab,
   <em>Example 1: Circles</em>
 </p>
 
+<p align="center">
+  <img src="ex3.png" alt="Example 2: Full" width="1000">
+  <br>
+  <em>Example 2: Full</em>
+</p>
+
+<p align="center">
+  <img src="ex4.png" alt="Example 3: Moons" width="1000">
+  <br>
+  <em>Example 3: Moons</em>
+</p>
+
+<p align="center">
+  <img src="ex5.png" alt="Example 4: Spots" width="1000">
+  <br>
+  <em>Example 4: Spots</em>
+</p>
+
+<p align="center">
+  <img src="ex6.png" alt="Example 5: Stripes" width="1000">
+  <br>
+  <em>Example 5: Stripes</em>
+</p>
+
 ---
 
 ## Comparison of Distance Function Calls📊
