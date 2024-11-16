@@ -1,4 +1,4 @@
-# 🌀Image Pixel Clustering📏
+# Project Instructions🧪
 
 ## Table of Contents 📋
 1. [Overview](#overview)
