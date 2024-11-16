@@ -48,20 +48,18 @@ In this laboratory, you will perform clustering of points from the previous lab,
 - The SQLite database stores the found black points and their coordinates (x, y).
 
 <p align="center">
-  <img src="ex1.png" alt="Example 1: Database" width="500">
+  <img src="ex1.png" alt="Database" width="500">
   <br>
-  <em>Example 1: Database</em>
+  <em>Database</em>
 </p>
 
 - A comparison of the number of distance function calls for each approach (neighboring "cells," K-Means, and Single Linkage) is shown in the table below:
 
-| Image | Initial Distance | Neighboring Cells | K-Means | Single Linkage |
-|-------|------------------|-------------------|---------|----------------|
-| Circles | 15561 | 1524978 | 121064580 |
-| Full    | 23394 | 795396  | 273627921 |
-| Moons   | 10913 | 283738  | 59541328  |
-| Spots   | 4967  | 19868   | -          |
-| Stripes | 16092 | 12333061| 128736     |
+<p align="center">
+  <img src="ex2.png" alt="Example 1: Circles" width="500">
+  <br>
+  <em>Example 1: Circles</em>
+</p>
 
 ---
 
