@@ -1,5 +1,8 @@
 # 🌀Image Pixel Clustering📏
-🌀Image Pixel Clustering📏
+
+Note: Due to privacy policies, I am not allowed to post the dataset publicly.
+
+---
 
 ## Table of Contents📋
 1. [Overview](#overview)
