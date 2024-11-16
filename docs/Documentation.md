@@ -48,7 +48,7 @@ In this laboratory, you will perform clustering of points from the previous lab,
 - The SQLite database stores the found black points and their coordinates (x, y).
 
 <p align="center">
-  <img src="ex1.png" alt="Database" width="500">
+  <img src="ex1.png" alt="Database" width="300">
   <br>
   <em>Database</em>
 </p>
@@ -72,7 +72,7 @@ In this laboratory, you will perform clustering of points from the previous lab,
 </p>
 
 <p align="center">
-  <img src="ex5.png" alt="Example 4: Spots" width="1000">
+  <img src="ex5.1.png" alt="Example 4: Spots" width="1000">
   <br>
   <em>Example 4: Spots</em>
 </p>
