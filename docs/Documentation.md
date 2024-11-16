@@ -126,6 +126,7 @@ In this laboratory, you will perform clustering of points from the previous lab,
 <p align="center">
   <em>Comparison of the number of distance function calls</em>
 </p>
+
 ---
 
 ## Comparison of Distance Function Calls📊
