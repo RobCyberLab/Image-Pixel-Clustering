@@ -72,7 +72,7 @@ In this laboratory, you will perform clustering of points from the previous lab,
 </p>
 
 <p align="center">
-  <img src="ex5.1.png" alt="Example 4: Spots" width="1000">
+  <img src="ex5.2.png" alt="Example 4: Spots" width="1000">
   <br>
   <em>Example 4: Spots</em>
 </p>
