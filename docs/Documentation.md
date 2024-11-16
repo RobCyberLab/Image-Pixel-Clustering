@@ -56,7 +56,7 @@ In this laboratory, you will perform clustering of points from the previous lab,
 - A comparison of the number of distance function calls for each approach (neighboring "cells," K-Means, and Single Linkage) is shown in the table below:
 
 <p align="center">
-  <img src="ex2.png" alt="Example 1: Circles" width="700">
+  <img src="ex2.png" alt="Example 1: Circles" width="900">
   <br>
   <em>Example 1: Circles</em>
 </p>
