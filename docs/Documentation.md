@@ -95,40 +95,40 @@ In this laboratory, you will perform clustering of points from the previous lab,
 
 <table align="center">
   <tr>
-    <th>Image</th>
-    <th>Neighboring Cells</th>
-    <th>K-Means</th>
-    <th>Single Linkage</th>
+    <th style="text-align:center;">Image</th>
+    <th style="text-align:center;">Neighboring Cells</th>
+    <th style="text-align:center;">K-Means</th>
+    <th style="text-align:center;">Single Linkage</th>
   </tr>
   <tr>
-    <td>Circles</td>
-    <td>15561</td>
-    <td>1524978</td>
-    <td>121064580</td>
+    <td style="text-align:center;">Circles</td>
+    <td style="text-align:center;">15561</td>
+    <td style="text-align:center;">1524978</td>
+    <td style="text-align:center;">121064580</td>
   </tr>
   <tr>
-    <td>Full</td>
-    <td>23394</td>
-    <td>795396</td>
-    <td>273627921</td>
+    <td style="text-align:center;">Full</td>
+    <td style="text-align:center;">23394</td>
+    <td style="text-align:center;">795396</td>
+    <td style="text-align:center;">273627921</td>
   </tr>
   <tr>
-    <td>Moons</td>
-    <td>10913</td>
-    <td>283738</td>
-    <td>59541328</td>
+    <td style="text-align:center;">Moons</td>
+    <td style="text-align:center;">10913</td>
+    <td style="text-align:center;">283738</td>
+    <td style="text-align:center;">59541328</td>
   </tr>
   <tr>
-    <td>Spots</td>
-    <td>4967</td>
-    <td>19868</td>
-    <td>12333061</td>
+    <td style="text-align:center;">Spots</td>
+    <td style="text-align:center;">4967</td>
+    <td style="text-align:center;">19868</td>
+    <td style="text-align:center;">12333061</td>
   </tr>
   <tr>
-    <td>Stripes</td>
-    <td>16092</td>
-    <td>128736</td>
-    <td>129468186</td>
+    <td style="text-align:center;">Stripes</td>
+    <td style="text-align:center;">16092</td>
+    <td style="text-align:center;">128736</td>
+    <td style="text-align:center;">129468186</td>
   </tr>
 </table>
 
