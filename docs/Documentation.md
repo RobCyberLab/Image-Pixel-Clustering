@@ -93,6 +93,46 @@ In this laboratory, you will perform clustering of points from the previous lab,
 | Spots   | 4967  | 19868   | 12333061  |
 | Stripes | 16092 | 128736  | 129468186 |
 
+<table align="center">
+  <tr>
+    <th>Image</th>
+    <th>Neighboring Cells</th>
+    <th>K-Means</th>
+    <th>Single Linkage</th>
+  </tr>
+  <tr>
+    <td>Circles</td>
+    <td>15561</td>
+    <td>1524978</td>
+    <td>121064580</td>
+  </tr>
+  <tr>
+    <td>Full</td>
+    <td>23394</td>
+    <td>795396</td>
+    <td>273627921</td>
+  </tr>
+  <tr>
+    <td>Moons</td>
+    <td>10913</td>
+    <td>283738</td>
+    <td>59541328</td>
+  </tr>
+  <tr>
+    <td>Spots</td>
+    <td>4967</td>
+    <td>19868</td>
+    <td>12333061</td>
+  </tr>
+  <tr>
+    <td>Stripes</td>
+    <td>16092</td>
+    <td>128736</td>
+    <td>129468186</td>
+  </tr>
+</table>
+
+
 ---
 
 ## Comparison of Distance Function Calls📊
