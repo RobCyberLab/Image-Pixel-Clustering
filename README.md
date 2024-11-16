@@ -58,9 +58,9 @@ The dataset consists of images containing black pixels. Each point will have the
 
 The Euclidean distance measures how far apart two points are in a space. For two points on a 2D plane, we can think of them as having **x** and **y** coordinates. To find out how far apart the two points are, we use this formula:
 
-\[
-\text{Distance} = \sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2}
-\]
+$$
+text{Distance} = \sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2}
+$$
 
 Where:
 - **(x₁, y₁)** and **(x₂, y₂)** are the coordinates of the two points.
