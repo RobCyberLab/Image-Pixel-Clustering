@@ -54,16 +54,31 @@ The dataset consists of images containing black pixels. Each point will have the
 ---
 
 ## Distance Metric📏
-The distance between two points is calculated using the **Euclidean distance** formula:
+### Euclidean Distance Formula 🌐
+
+The Euclidean distance measures how far apart two points are in a space. For two points on a 2D plane, we can think of them as having **x** and **y** coordinates. To find out how far apart the two points are, we use this formula:
 
 \[
-d(p, q) = \sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2}
+\text{Distance} = \sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2}
 \]
 
 Where:
-- \(p = (x_1, y_1)\) and \(q = (x_2, y_2)\) are the coordinates of two points.
+- **(x₁, y₁)** and **(x₂, y₂)** are the coordinates of the two points.
+- **(x₂ - x₁)** is the horizontal distance between the points.
+- **(y₂ - y₁)** is the vertical distance between the points.
+- Squaring the differences and adding them together gives the total squared distance.
+- Finally, we take the square root to get the actual distance between the points.
 
-**Optimization**: To improve performance, the square root can be omitted for comparison purposes since it does not affect the relative order of distances.
+---
+
+### Simple Steps to Calculate:
+1. **Subtract** the x-coordinates of the two points: \( x_2 - x_1 \)
+2. **Subtract** the y-coordinates of the two points: \( y_2 - y_1 \)
+3. **Square** each difference.
+4. **Add** the squared differences.
+5. **Take the square root** of the sum to get the distance.
+
+This will give you the "straight line" distance between the two points, as if you were measuring with a ruler.
 
 ---
 
